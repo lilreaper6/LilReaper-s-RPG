@@ -1,7 +1,7 @@
 # 🎮 LilReaper's RPG
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![Minecraft](https://img.shields.io/badge/minecraft-1.21.3-green)
+![Minecraft](https://img.shields.io/badge/minecraft-1.21.4-green)
 ![Server](https://img.shields.io/badge/server-Paper-orange)
 
 > Komplexní RPG plugin s class systémem, leveling systémem, custom itemy a spawn areas
